@@ -1,5 +1,5 @@
 import "./index.css";
-/*import { FaChevronLeft, FaChevronRight,FaQuoteLeft,FaFacebook, FaTwitter,FaInstagram } from 'react-icons/fa';*/
+
 import Integrity from "./integrity.jsx";
 import Reviews from "./reviews.jsx";
 import Footer from "./footer.jsx";
